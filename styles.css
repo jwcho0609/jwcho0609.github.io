@@ -1,11 +1,14 @@
 
 body {
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(45, 45, 45);
 }
 h1 {
   color: rgb(1, 129, 165);
-  font-family: Lobster
+  font-size: 40px;
+  font-family: Lobster;
 }
-p {
+body {
   color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: monospace;
 }
