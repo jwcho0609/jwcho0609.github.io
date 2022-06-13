@@ -12,6 +12,11 @@ h1 {
   font-size: 16px;
   font-family: monospace;
 }
-.small-image{
-  width: 500px;
+.small-image {
+  width: 300px;
+}
+.image-border {
+  border-color: rgb(145, 50, 50);
+  border-width: 5px;
+  border-style: solid;
 }
